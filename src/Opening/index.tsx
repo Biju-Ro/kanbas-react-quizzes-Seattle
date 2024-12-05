@@ -18,7 +18,9 @@ export default function Opening() {
         }}
       >
         <div className="card-body text-center p-4">
-          <h2 className="text-danger mb-4">🏆 Kanbas Quiz Project 🎓</h2>
+          <h2 className="text-danger mb-4">
+            🏆 Kanbas Quiz CS4550 Project SECTION 1 🎓
+          </h2>
 
           <div className="mb-4">
             <h5 className="text-secondary">🚀 Seattle Squad 🌟</h5>
