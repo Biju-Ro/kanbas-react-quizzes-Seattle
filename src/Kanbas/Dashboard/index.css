@@ -1,0 +1,21 @@
+.card-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    font-size: 12px;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.card-title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+}
+
+.card {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 17px;
+    margin-top: 17px;
+}

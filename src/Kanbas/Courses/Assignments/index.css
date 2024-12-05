@@ -1,0 +1,10 @@
+.input-group-text {
+    background-color: #fff;
+    border-right-color: #fff;
+}
+
+#wd-assignment-list > .list-group-item {
+    color: black;
+    background-color: white;
+    border-left: 4px solid green !important;
+}
