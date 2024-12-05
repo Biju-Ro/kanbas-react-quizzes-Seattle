@@ -32,8 +32,7 @@ export default function Opening() {
           <div className="row g-2 mb-3">
             <div className="col">
               <a
-                href="https://github.com/your-server-repo"
-                target="_blank"
+                href="https://github.com/Biju-Ro/kanbas-node-quizzes-main"
                 className="btn btn-outline-secondary w-100"
               >
                 👨‍🔬 Server Repo
@@ -41,8 +40,7 @@ export default function Opening() {
             </div>
             <div className="col">
               <a
-                href="https://github.com/your-react-repo"
-                target="_blank"
+                href="https://github.com/Biju-Ro/kanbas-react-quizzes-main?tab=readme-ov-file"
                 className="btn btn-outline-secondary w-100"
               >
                 ⚛️ React Repo
